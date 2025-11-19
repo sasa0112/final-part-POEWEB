@@ -23,7 +23,7 @@ The goal of the project was to create a clean, user-friendly, and fully responsi
 
 In Part 1, I created the basic structure and layout for all the website pages using HTML5.
 
-What I completed:
+What I completed in this task
 
 Built six pages using semantic HTML (header, nav, main, section, footer).
 
@@ -267,3 +267,4 @@ Improve accessibility and user experience
 
 
 Organize files professionally
+
