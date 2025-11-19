@@ -83,6 +83,20 @@ Desktop screens
 Part 2 Outcome
 
 The website became visually appealing, organized, and responsive across different screen sizes.
+change log
+
+ Added
+- New email validation system with real-time feedback
+- Smooth scroll navigation improvements
+- Response preview panel for enquiry types
+
+Improved
+- Refactored FormValidator for better performance
+- Enhanced mobile menu animation and accessibility
+
+ Fixed
+- Resolved "Uncaught Error at main.js:1:1"
+- Corrected missing error messages on contact form
 
 4. Part 3 – JavaScript and Interactivity
 
@@ -249,6 +263,7 @@ Improve accessibility and user experience
 
 
 Organize files professionally
+
 
 
 
