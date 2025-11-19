@@ -46,11 +46,11 @@ The website had a complete structure and working navigation but still needed sty
 Part 2 focused on improving the visual design and layout of the site using an external CSS file.
 
 What I improved:
-✔ 1. External CSS File
+ 1. External CSS File
 
 All styling was moved into CSS/style.css, making the code cleaner and easier to manage.
 
-✔ 2. Full Website Styling
+ 2. Full Website Styling
 
 I added:
 
@@ -62,7 +62,7 @@ Margins, padding, spacing
 
 Styled product cards, gallery grids, nav bar, and buttons
 
-✔ 3. Responsive Design
+ 3. Responsive Design
 
 I used:
 
@@ -89,7 +89,7 @@ The website became visually appealing, organized, and responsive across differen
 Part 3 introduced JavaScript to make the website more interactive and user-friendly.
 
 What I added:
-✔ 1. Image Slider on the Homepage
+ 1. Image Slider on the Homepage
 
 I created a working image slider with:
 
@@ -103,7 +103,7 @@ Responsive layout
 
 This was added inside the <main> section of the homepage.
 
-✔ 2. Interactive Contact Form
+ 2. Interactive Contact Form
 
 The contact form now uses JavaScript to:
 
@@ -113,11 +113,11 @@ Clear the form after submission
 
 Prevent page reload
 
-✔ 3. Smooth Scrolling
+ 3. Smooth Scrolling
 
 Navigation links now scroll smoothly to their sections.
 
-✔ 4. Accessibility Improvements
+ 4. Accessibility Improvements
 
 Added:
 
@@ -225,7 +225,9 @@ Typography
 Headings: Playfair Display
 
 Body text: Lato
+
 6. References
+   
 HTML & CSS
 
 MDN Web Docs. (2024). HTML Basics.
@@ -262,5 +264,6 @@ Create responsive designs with CSS
 Add interactivity using JavaScript
 
 Improve accessibility and user experience
+
 
 Organize files professionally
