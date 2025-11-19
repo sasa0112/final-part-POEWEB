@@ -205,9 +205,9 @@ Cleaned directory structure
 │   └── main.js
 │
 └── images/
-    ├── breads/
-    ├── pastries/
-    └── gallery/
+    ├── breads
+    ├── pastries
+    └── gallery
 
 🎨 Final Design System
 Colors
@@ -267,4 +267,5 @@ Improve accessibility and user experience
 
 
 Organize files professionally
+
 
