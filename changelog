@@ -1,0 +1,36 @@
+# Changelog
+
+All notable changes to this project will be documented here.
+
+---
+
+## [1.0.2] - 2025-03-04
+### Added
+- Added image slider to products page.
+- Linked external JavaScript file (product-slider.js).
+
+### Changed
+- Reduced product image sizes for better layout.
+- Cleaned product.html file structure.
+
+### Fixed
+- Slider buttons not working previously (now fixed).
+
+---
+
+## [1.0.1] - 2025-02-28
+### Added
+- Added gallery section to the website.
+- Added new images to /images folder.
+
+### Changed
+- Improved styles for product grid.
+- Updated README formatting.
+
+---
+
+## [1.0.0] - 2025-02-20
+### Added
+- Initial website creation.
+- Added homepage, about page, contact page.
+- Added navigation bar and footer.
