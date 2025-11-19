@@ -224,17 +224,24 @@ Body text: Lato
 
 6. References
    
-HTML & CSS
+   HTML, CSS & JavaScript Learning Resources
+
+MDN Web Docs (2025) HTML elements reference. Available at: https://developer.mozilla.org/
+ (Accessed: 4 March 2025).
+
+W3Schools (2025) CSS Grid Layout. Available at: https://www.w3schools.com/css/css_grid.asp
+ (Accessed: 4 March 2025).
+
+W3Schools (2025) JavaScript HTML DOM Available at: https://www.w3schools.com/js/js_htmldom.asp
+ (Accessed: 4 March 2025).
+
+Stack Overflow (2024) JavaScript slider functions discussion. Available at: https://stackoverflow.com
+ (Accessed: 4 March 2025).
+
 
 MDN Web Docs. (2024). HTML Basics.
 
 MDN Web Docs. (2024). CSS Layout.
-
-W3Schools. (2024). Responsive Web Design.
-
-Google Fonts (Playfair Display & Lato).
-
-JavaScript
 
 MDN Web Docs. (2024). JavaScript Guide.
 
@@ -263,6 +270,7 @@ Improve accessibility and user experience
 
 
 Organize files professionally
+
 
 
 
