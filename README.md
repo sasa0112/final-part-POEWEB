@@ -189,25 +189,7 @@ Reduced inline/in-page scripts
 
 Cleaned directory structure
 
-🗂 Final File Structure
-/project
-│── index.html
-│── product.html
-│── about.html
-│── gallery.html
-│── contact.html
-│── enquiry.html
-│
-├── CSS/
-│   └── style.css
-│
-├── js/
-│   └── main.js
-│
-└── images/
-    ├── breads
-    ├── pastries
-    └── gallery
+
 
 🎨 Final Design System
 Colors
@@ -267,5 +249,6 @@ Improve accessibility and user experience
 
 
 Organize files professionally
+
 
 
