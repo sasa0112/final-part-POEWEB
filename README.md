@@ -68,7 +68,7 @@ I used:
 
 Flexbox
 
-CSS Grid
+css Grid
 
 Media queries
 
@@ -280,6 +280,7 @@ Improve accessibility and user experience
 
 
 Organize files professionally
+
 
 
 
