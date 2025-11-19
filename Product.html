@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Explore our selection of artisanal breads and pastries at The Bread Basket.">
+  <title>The Bread Basket - Our Products</title>
+
+  <link rel="stylesheet" href="CSS/style.css">
+
+<style>
+
+body {font-family: 'Lato', sans-serif; margin:0; background:#FFF5E1; color:#5D4037;}
+header {background:#C97B4A; padding:20px; color:white; text-align:center; font-family:'Playfair Display', serif;}
+nav a {margin:0 15px; color:white; text-decoration:none; font-weight:bold;}
+main {padding:40px;}
+footer {background:#5D4037; color:white; text-align:center; padding:15px; font-size:0.9em;}
+
+
+.product-slider-section {text-align:center; margin:50px auto; max-width:700px;}
+.product-slider {position:relative; overflow:hidden; border-radius:15px; background:white; padding:20px; box-shadow:0 4px 12px rgba(0,0,0,0.15);}
+.product-window {width:100%; overflow:hidden;}
+.product-track {display:flex; transition:transform 0.5s ease-in-out;}
+.product-slide {min-width:100%; text-align:center; padding:10px;}
+.product-slide img {width:90%; max-height:350px; object-fit:cover; border-radius:12px; margin-bottom:15px;}
+
+.prod-btn {position:absolute; top:50%; transform:translateY(-50%); background:#C97B4A; color:white; border:none; font-size:28px; padding:8px 14px; cursor:pointer; border-radius:50%;}
+.prev-btn {left:10px;}
+.next-btn {right:10px;}
+.prod-btn:hover {background:#8a4f2d; transition:0.3s;}
+
+
+.product-grid {display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:25px; margin-top:30px;}
+.card {background:white; padding:16px; border-radius:12px; text-align:center; box-shadow:0 3px 10px rgba(0,0,0,0.15);}
+.card img {width:180px; height:150px; object-fit:cover; border-radius:10px; display:block; margin:0 auto 10px;}
+.card h3 {margin:10px 0 6px; font-size:1.1rem;}
+.card p {font-size:0.9rem; margin-bottom:8px;}
+</style>
+</head>
+
+
+<body>
+  <header>
+    <h1>Our Products</h1>
+    <nav aria-label="Main navigation">
+      <a href="INDEXES.HTML">Home</a>
+      <a href="Product.html">Products</a>
+      <a href="about.html">About</a>
+      <a href="Gallery.html">Gallery</a>
+      <a href="contact.html">Contact</a>
+      <a href="enquiry.html">Enquiry</a>
+    </nav>
+  </header>
+
+  <main>
+
+  
+    <section class="product-slider-section">
+      <h2>Featured Products</h2>
+
+      <div class="product-slider">
+
+        <button class="prod-btn prev-btn">❮</button>
+
+        <div class="product-window">
+          <div class="product-track">
+
+            <div class="product-slide">
+              <img src="images/debbie-widjaja-H_PXix_4Bwc-unsplash.jpg" alt="Seeded Sourdough">
+              <h3>Seeded Sourdough</h3>
+              <p>Crunchy, tangy and fresh daily.</p>
+              <strong>R55</strong>
+            </div>
+
+            <div class="product-slide">
+              <img src="https://images.unsplash.com/photo-1526318472351-c75fcf070305" alt="Hearty Rye">
+              <h3>Hearty Rye</h3>
+              <p>Dense and flavourful European classic.</p>
+              <strong>R52</strong>
+            </div>
+
+            <div class="product-slide">
+              <img src="images/ludovic-avice-nRRDPyeSHdY-unsplash.jpg" alt="Chocolate Muffins">
+              <h3>Chocolate Chip Muffins</h3>
+              <p>Soft, fluffy and chocolate-packed.</p>
+              <strong>R48 (4 pack)</strong>
+            </div>
+
+            <div class="product-slide">
+              <img src="https://images.unsplash.com/photo-1555507036-ab1f4038808a" alt="Cinnamon Buns">
+              <h3>Cinnamon Buns</h3>
+              <p>Warm, sweet and glazed.</p>
+              <strong>R64 (4 pack)</strong>
+            </div>
+
+          </div>
+        </div>
+
+        <button class="prod-btn next-btn">❯</button>
+
+      </div>
+    </section>
+
+    <section>
+      <h2>Breads & Pastries</h2>
+      <p>Our selection is baked daily with carefully sourced ingredients.</p>
+
+      <div class="product-grid">
+
+        <div class="card">
+          <img src="images/debbie-widjaja-H_PXix_4Bwc-unsplash.jpg" alt="Seeded sourdough loaf">
+          <h3>Seeded Sourdough</h3>
+          <p>A staple of European baking traditions.</p>
+          <strong>R55</strong>
+        </div>
+
+        <div class="card">
+          <img src="https://images.unsplash.com/photo-1526318472351-c75fcf070305" alt="Dark rye bread slices">
+          <h3>Hearty Rye</h3>
+          <p>Dense with bold flavor.</p>
+          <strong>R52</strong>
+        </div>
+
+        <div class="card">
+          <img src="images/ludovic-avice-nRRDPyeSHdY-unsplash.jpg" alt="Chocolate muffins">
+          <h3>Chocolate Chip Muffins</h3>
+          <p>Moist & fluffy.</p>
+          <strong>R48 (4 pack)</strong>
+        </div>
+
+        <div class="card">
+          <img src="https://images.unsplash.com/photo-1555507036-ab1f4038808a" alt="Cinnamon buns">
+          <h3>Cinnamon Buns</h3>
+          <p>Sweet and soft.</p>
+          <strong>R64 (4 pack)</strong>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>© 2025 The Bread Basket | Copywrite st10440311</p>
+  </footer>
+
+ 
+  
+
+</body>
+</html>
+
