@@ -72,7 +72,7 @@ css Grid
 
 Media queries
 
-This allows the site to adjust to:
+it allows the site to adjust to:
 
 Mobile phones
 
@@ -95,10 +95,11 @@ Improved
 - Enhanced mobile menu animation and accessibility
 
  Fixed
-- Resolved "Uncaught Error at main.js:1:1"
+- solved "Uncaught Error at main.js:1:1"
 - Corrected missing error messages on contact form
 
-4. Part 3 – JavaScript and Interactivity
+4. Part 3 –
+    JavaScript and Interactivity
 
 Part 3 introduced JavaScript to make the website more interactive and user-friendly.
 
@@ -283,6 +284,7 @@ Improve accessibility and user experience
 
 
 Organize files professionally
+
 
 
 
