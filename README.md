@@ -250,7 +250,10 @@ Git SCM (2025) Git basics. Available at: https://git-scm.com/doc
 Google Fonts (2025) Playfair Display & Lato. Available at: https://fonts.google.com/
  (Accessed: 4 March 2025).
 
+Accessibility Guidelines
 
+W3C (2024) Web Content Accessibility Guidelines (WCAG) 2.2. Available at: https://www.w3.org/WAI/
+ (Accessed: 4 March 2025).
 MDN Web Docs. (2024). CSS Layout.
 
 MDN Web Docs. (2024). JavaScript Guide.
@@ -280,6 +283,7 @@ Improve accessibility and user experience
 
 
 Organize files professionally
+
 
 
 
