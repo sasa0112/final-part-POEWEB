@@ -238,8 +238,18 @@ W3Schools (2025) JavaScript HTML DOM Available at: https://www.w3schools.com/js/
 Stack Overflow (2024) JavaScript slider functions discussion. Available at: https://stackoverflow.com
  (Accessed: 4 March 2025).
 
+Git & GitHub Documentation
 
-MDN Web Docs. (2024). HTML Basics.
+GitHub Docs (2025) Managing files on GitHub. Available at: https://docs.github.com/
+ (Accessed: 4 March 2025).
+
+Git SCM (2025) Git basics. Available at: https://git-scm.com/doc
+ (Accessed: 4 March 2025).
+. Fonts
+
+Google Fonts (2025) Playfair Display & Lato. Available at: https://fonts.google.com/
+ (Accessed: 4 March 2025).
+
 
 MDN Web Docs. (2024). CSS Layout.
 
@@ -270,6 +280,7 @@ Improve accessibility and user experience
 
 
 Organize files professionally
+
 
 
 
